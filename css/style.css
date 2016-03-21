@@ -67,6 +67,12 @@ h1{
 
 /*COMMENCE THE TEXT SECTION UNDER THE HEADER IMAGE*/
 
+h2{
+    margin:0 auto;
+    width:70%;
+    font-size:5rem;
+}
+
 #welcome{
     margin:0 auto;
     font-size:2rem;
@@ -75,7 +81,8 @@ h1{
     text-transform:capitalize;
 }
 #text{
-    font-size:.5em;
+    margin:0 auto;
+    font-size:.6em;
     color:#000;
-    width:100%  
+    width:73%;  
 }
