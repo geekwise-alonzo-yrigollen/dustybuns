@@ -100,22 +100,48 @@ h2{
 .top_bistro{
     width:90%;
     margin:0 auto;
-    background-color:;
+    display:inline-block
+    background-color:red;
 }
-div{
+.san_francisco{
    width:50%;
+    display:block;
    background-color:#bccf3d;
+}
+
+#san_francisco{
+    
 }
 
 #left_bistro_image img{
     position:relative;
     height:25rem;
-    width:3;
+    display:block;
+    width:50%;
+    float:left;
     
     
-}#left_bistro_image p{
+}
+#right_bistro_image img{
+    float:right;
+    margin:0 auto;
+    
+    
+}
+
+#paragraph img{
+    display:block;
+    width:50%;
+    margin:0 auto;
+    height:2em;
+}
+
+#paragraph{
   color:#fff;
-  float:left;
+  font-size:1em;
+    height:25em;
+  text-align:center;
+  display:block;
   width:100%;
 }
 
