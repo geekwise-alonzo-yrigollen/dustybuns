@@ -13,6 +13,7 @@ header{
     background-color:aliceblue;
     background-image:url(http://i.imgur.com/othQpDL.jpg);
     background-repeat:no-repeat;
+    background:cover;
 }
 
 .nav_bar{
