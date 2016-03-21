@@ -101,22 +101,19 @@ h2{
 .top_bistro{
     width:90%;
     margin:0 auto;
-    display:inline-block
+    height:60%;
+    display:inline-block;
     background-color:red;
 }
 .san_francisco{
-   width:calc(100%/2);
+    width:calc(45%/2);
     display:block;
    background-color:#bccf3d;
 }
 
-#san_francisco{
-    
-}
-
 #left_bistro_image img{
-    position:relative;
-    height:25rem;
+    
+    height:20rem;
     display:block;
     width:50%;
     float:left;
@@ -134,12 +131,32 @@ h2{
 #paragraph{
   color:#fff;
   font-size:1em;
-    height:25em;
+  height:5em;
   text-align:center;
   display:block;
   width:100%;
 }
-*/
+
+footer{
+   margin:0 auto;
+    display:block;
+    width:100%;
+    height:auto;
+    text-align:center;
+    background-color:aliceblue;
+    background-image:url(http://i.imgur.com/A0WEr2Y.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+/*COMMENCE FOOTER IMAGE*/
+
+#footer p{
+    margin:0 auto;
+    width:100%;
+    height:2em;
+}
+
 
 /*LEFT SIDE CENTER IMAGE ***END****/
 
