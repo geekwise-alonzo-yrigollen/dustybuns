@@ -147,9 +147,10 @@ h2{
     width:13em;
     
 }
-#right_bistro_paragraph{
+#right_bistro_paragraph p{
     margin:0 auto;
     display:inline-block;
+    background-color:#ffc300;
     float:left;
 }
 
