@@ -4,6 +4,8 @@ body{
     
 }
 
+/*HEADER IMAGE BEGINS HERE*/
+
 header{
     margin:0 auto;
     display:block;
@@ -13,7 +15,8 @@ header{
     background-color:aliceblue;
     background-image:url(http://i.imgur.com/othQpDL.jpg);
     background-repeat:no-repeat;
-    background:cover;
+    background-size:cover;
+    
 }
 
 .nav_bar{
