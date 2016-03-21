@@ -95,6 +95,7 @@ h2{
     background-repeat:no-repeat;
     height:33em;
     
+    
 }
 
 .top_bistro{
@@ -138,9 +139,11 @@ h2{
   display:block;
   width:100%;
 }
+*/
 
 /*LEFT SIDE CENTER IMAGE ***END****/
 
+/*
 #right_bistro_image img{
     float:right;
     margin:0 auto;
@@ -153,4 +156,5 @@ h2{
     background-color:#ffc300;
     float:left;
 }
+*/
 
