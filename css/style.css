@@ -1,0 +1,77 @@
+body{
+    background-color:#fff;
+    margin:0 auto;
+    
+}
+
+header{
+    margin:0 auto;
+    display:block;
+    width:100%;
+    height:auto;
+    text-align:center;
+    background-color:aliceblue;
+    background-image:url(http://i.imgur.com/othQpDL.jpg);
+    background-repeat:no-repeat;
+}
+
+.nav_bar{
+    margin:0 auto;
+    width:100%;
+    display:inline;
+}
+
+.initial_ul{
+    margin:0 auto;
+    width:100%;
+    display:inline;
+}
+li{
+    margin:0 auto;
+    display:inline;
+    width:100%;
+    
+}
+li a{
+    margin:0 auto;
+    color:#fff;
+    font-size:.8em;
+    text-transform:uppercase;
+    padding:2%;
+    text-decoration:none;
+}
+a{
+    line-height:8em;
+}
+#dusty_buns_header_text {
+    margin:0 auto;
+}
+
+h1{
+    color:#fff;
+    font-size:5em;
+}
+
+/*controls height of dusy bun img as it is set to auto*/
+
+#first_paragraph{
+    color:#fff;
+    font-size:4em;
+    margin:0 auto;
+    height:5em;
+}
+
+/*COMMENCE THE TEXT SECTION UNDER THE HEADER IMAGE*/
+
+#welcome{
+    margin:0 auto;
+    font-size:2rem;
+    color:#ffc300;
+    text-align:center;
+    text-transform:capitalize;
+}
+#text{
+    font-size:.5em;
+    color:#000;
+    width:100%  
+}
