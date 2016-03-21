@@ -96,9 +96,29 @@ h2{
     height:33em;
     
 }
-span{
-    position:relative;
-    background-color:#bccf3d;
+
+.top_bistro{
+    width:90%;
+    margin:0 auto;
+    background-color:;
 }
+div{
+   width:50%;
+   background-color:#bccf3d;
+}
+
+#left_bistro_image img{
+    position:relative;
+    height:25rem;
+    width:3;
+    
+    
+}#left_bistro_image p{
+  color:#fff;
+  float:left;
+  width:100%;
+}
+
+
 
 
