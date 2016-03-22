@@ -19,6 +19,8 @@ header{
     
 }
 
+/*COMMENCE NAV STYLE*/
+
 .nav_bar{
     margin:0 auto;
     width:100%;
@@ -39,9 +41,11 @@ li{
 li a{
     margin:0 auto;
     color:#fff;
-    font-size:.8em;
-    text-transform:uppercase;
-    padding:2%;
+    font-size:1em;
+    font-weight:600 thin;
+    text-transform:capitalize;
+    padding:2.56%;
+    text-shadow:1px 1px 1px #000;
     text-decoration:none;
 }
 a{
@@ -50,8 +54,13 @@ a{
 a:hover{
     background-color:#bccf3d;
     border-radius:.5em;
+    transition:background .7s;
+    
 
 }
+
+/*NAV STYLE ***END****/
+
 #dusty_buns_header_text {
     margin:0 auto;
 }
