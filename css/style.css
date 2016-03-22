@@ -241,6 +241,23 @@ h2{
 
 }
 
+/* SAN FRAN BUS SECTION. LOWER UPPER RIGHT ***END***/
+
+/*COMMENCE LOWER RIGHT SECTION*/
+
+/*CHECK HERE TO ENSURE CLASSED "FIRST_SECTION" IS WORKING FOR THE LOWER RIGHT SECTION TOO*/
+
+
+#fresno_pic{
+    margin:0 auto;
+    width:calc(90%/2);
+    display:block;
+    background-color:rgb(255, 195, 0);
+    float:left;
+    
+}
+
+
 
 
 /*
