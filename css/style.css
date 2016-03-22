@@ -117,15 +117,51 @@ h2{
     
 }
 
+/*THIS IS WHERE YOU CAN MOVE SECTION ABOVE WOOD IMAGE BACKGROUND WITH TOP ELEMENT BECAUSE OF POSITION RELATIVE SINCE WOOD_IMAGE IS POSITION ABSOLUTE*/
+
 .first_section{
     margin:0 auto;
+    width:90%;
+    position:relative;
+}
+
+/*COMMENCE BISTRO IMAGE AND TEXT ARTICLES*/
+
+#image_peace{
+    margin:0 auto;
     width:calc(100%/2);
+    display:block;
     background-color:#bccf3d;
+    float:left;
    
 }
+
 #left_bistro_image img{
-    width:calc(100&/2);
+    width:calc(50&/2);
+    display:inline-block;
+    float:left;
+    height:32em;
+    
 }
+
+#image_peace_text{
+    color:#fff;
+    margin:0 auto;
+    text-align:center;
+    font-size:1.3em;
+    width:calc(90%/2);
+    float:left;
+}
+
+.fa-cutlery{
+    margin:0 auto;
+    color:#fff;
+    text-align:center;
+    padding:.9em;
+    width:100%;
+    
+}
+
 /*
 }
 
