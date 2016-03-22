@@ -47,6 +47,11 @@ li a{
 a{
     line-height:8em;
 }
+a:hover{
+    background-color:#bccf3d;
+    border-radius:.5em;
+
+}
 #dusty_buns_header_text {
     margin:0 auto;
 }
