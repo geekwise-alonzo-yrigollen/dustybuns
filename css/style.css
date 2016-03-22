@@ -286,6 +286,46 @@ h2{
 
 /*LOWER LEFT SECTION END FRESNO BUS SCHEDULE*/
 
+.lower_left_section{
+    margin:0 auto;
+    width:90%;
+    position:relative;
+}
+
+
+#lower_left_pic{
+    margin:0 auto;
+    width:calc(100%/2);
+    display:block;
+    background-color:rgb(255, 195, 0);
+    float:left;
+    
+    
+}
+
+#lower_left_image img{
+    margin:0 auto;
+    width:calc(50&/2);
+    display:inline-block;
+    float:left;
+    height:16.9em;
+
+
+}
+#sanfran_bus_text{
+    color:#fff;
+    margin:0 auto;
+    text-align:center;
+    font-size:1.1em;
+    padding:3rem;
+    width:calc(50%/2);
+    float:right;
+
+}
+
+
+
+/*LOWER LEFT SIDE ELEMENT*/
 
 /*
 }
