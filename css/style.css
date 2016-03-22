@@ -42,16 +42,18 @@ li a{
     margin:0 auto;
     color:#fff;
     font-size:1em;
-    font-weight:600 thin;
+    font-weight:600;
     text-transform:capitalize;
-    padding:2.56%;
+    padding:2.77%;
     text-shadow:1px 1px 1px #000;
     text-decoration:none;
 }
 a{
+    
     line-height:8em;
 }
 a:hover{
+    color:aliceblue;
     background-color:#bccf3d;
     border-radius:.5em;
     transition:background .7s;
