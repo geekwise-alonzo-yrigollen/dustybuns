@@ -175,19 +175,18 @@ h2{
 
 #fresno_pic{
     margin:0 auto;
-    width:calc(100%/2);
+    width:calc(90%/2);
     display:block;
     background-color:rgb(255, 195, 0);
     float:left;
     
-   
 }
 
-#right_bistro_image{
-    width:calc(50&/2);
+#right_bistro_image img{
+    width:calc(100&/2);
     display:inline-block;
     float:right;
-    height:6.3em;
+    height:16.5em;
 
 }
 
@@ -195,11 +194,50 @@ h2{
     color:#fff;
     margin:0 auto;
     text-align:center;
-    font-size:1.3em;
+    font-size:1em;
+    padding:.8em;
     width:calc(90%/2);
     float:left;
-    transform:translateY(-4.8em);
     
+}
+
+/*FRESNO BISTRO ***END****/
+
+/*COMMENCE SAN FRAN BUS SECTION. LOWER UPPER RIGHT*/
+
+.third_section{
+    margin:0 auto;
+    width:90%;
+    position:relative;
+}
+
+#sanfran_bus_pic{
+    margin:0 auto;
+    width:calc(100%/2);
+    display:block;
+    background-color:rgb(255, 195, 0);
+    float:left;
+    
+    
+}
+#sanfran_bus_image img{
+    margin:0 auto;
+    width:calc(50&/2);
+    display:inline-block;
+    float:left;
+    height:16.9em;
+
+
+}
+#sanfran_bus_text{
+    color:#fff;
+    margin:0 auto;
+    text-align:center;
+    font-size:1.1em;
+    padding:3rem;
+    width:calc(50%/2);
+    float:right;
+
 }
 
 
