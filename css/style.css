@@ -162,6 +162,48 @@ h2{
     
 }
 
+/*SAN FRANCISCO ***END****/
+
+/*COMMENCE FRESNO BISTRO */
+
+#second_section{
+    margin:0 auto;
+    width:90%;
+    position:relative;
+    
+}
+
+#fresno_pic{
+    margin:0 auto;
+    width:calc(100%/2);
+    display:block;
+    background-color:rgb(255, 195, 0);
+    float:left;
+    
+   
+}
+
+#right_bistro_image{
+    width:calc(50&/2);
+    display:inline-block;
+    float:right;
+    height:6.3em;
+
+}
+
+#image_fresno_text{
+    color:#fff;
+    margin:0 auto;
+    text-align:center;
+    font-size:1.3em;
+    width:calc(90%/2);
+    float:left;
+    transform:translateY(-4.8em);
+    
+}
+
+
+
 /*
 }
 
