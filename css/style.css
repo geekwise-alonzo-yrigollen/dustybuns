@@ -131,7 +131,7 @@ h2{
     margin:0 auto;
     width:calc(100%/2);
     display:block;
-    height:33.3em;
+    height:33.4em;
     background-color:#bccf3d;
     float:left;
    
@@ -142,7 +142,7 @@ h2{
     width:calc(50&/2);
     display:inline-block;
     float:left;
-    height:33.5em;
+    height:33.4em;
     
 }
 
@@ -264,11 +264,11 @@ h2{
     
 }
 
-#lower_left_fresno_image{
-    width:calc(100&/2);
+#lower_left_fresno_image img{
+    width:calc(100%/2);
     display:inline-block;
     float:right;
-    height:13em;
+    height:16.5em;
 
 }
 
