@@ -107,7 +107,7 @@ h2{
 
 /*ADDED MARGIN TOP HERE TO BRING DOWN THE WOOD IMAGE, MAY HAVE AN ISSUE WITH THE SUPER-IMPOSED IMAGES*/
 
-#wood_image{
+.wood_image{
     margin-top:11em;
     width:100%;
     background-image: url(http://i.imgur.com/kytqrrN.jpg);
