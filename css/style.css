@@ -288,30 +288,31 @@ h2{
 
 .lower_left_section{
     margin:0 auto;
-    width:90%;
+    width:91.3%;
+    display:inline;
     position:relative;
 }
 
 
 #lower_left_pic{
     margin:0 auto;
-    width:calc(100%/2);
+    width:calc(90%/2);
     display:block;
-    background-color:rgb(255, 195, 0);
     float:left;
-    
+    background-color:rgb(255, 195, 0);
     
 }
 
 #lower_left_image img{
     margin:0 auto;
-    width:calc(50&/2);
-    display:inline-block;
+    width:calc(100%/2);
+    display:block;
+    height:16.5em;
+    background-color:rgb(255, 195, 0);
     float:left;
-    height:16.9em;
-
 
 }
+/*
 #sanfran_bus_text{
     color:#fff;
     margin:0 auto;
@@ -322,6 +323,7 @@ h2{
     float:right;
 
 }
+*/
 
 
 
