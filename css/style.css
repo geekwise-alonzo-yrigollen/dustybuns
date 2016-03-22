@@ -93,8 +93,6 @@ h2{
     margin:0 auto;
     margin-top:1.1em;
     margin-bottom:1.1em;
-    
-    
     font-size:1.9rem;
     color:#ffc300;
     text-align:center;
@@ -110,12 +108,25 @@ h2{
 /*ADDED MARGIN TOP HERE TO BRING DOWN THE WOOD IMAGE, MAY HAVE AN ISSUE WITH THE SUPER-IMPOSED IMAGES*/
 
 #wood_image{
-    margin-top:12em;
+    margin-top:11em;
+    width:100%;
     background-image: url(http://i.imgur.com/kytqrrN.jpg);
+    position:absolute;
     background-repeat:no-repeat;
     height:33em;
     
-    
+}
+
+.first_section{
+    margin:0 auto;
+    width:calc(100%/2);
+    background-color:#bccf3d;
+   
+}
+#left_bistro_image img{
+    width:calc(100&/2);
+}
+/*
 }
 
 .top_bistro{
@@ -168,14 +179,17 @@ footer{
     background-repeat:no-repeat;
     background-size:cover;
 }
+*/
 
 /*COMMENCE FOOTER IMAGE*/
 
+/*
 #footer p{
     margin:0 auto;
     width:100%; 
     height:2em;
 }
+*/
 
 
 /*LEFT SIDE CENTER IMAGE ***END****/
