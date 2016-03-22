@@ -360,10 +360,19 @@ main{
 #below_center_images{
     display:block;
     margin:0 auto;
-    background-color:black;
     width:100%;
-    height:4em;
+    height:24em;
+    background-image:url(http://i.imgur.com/X2CBUcA.jpg);
+    background-size:cover;
 }
+#dusty_bun_footer_text #dusty{
+    margin:0 auto;
+    font-size:2em;
+    color:#fff;
+    font-weight:800;
+}
+
+
 
 
 
