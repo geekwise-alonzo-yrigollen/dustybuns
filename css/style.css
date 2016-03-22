@@ -131,12 +131,12 @@ h2{
     margin:0 auto;
     width:calc(100%/2);
     display:block;
-    height:33.5em;
+    height:33.3em;
     background-color:#bccf3d;
     float:left;
    
 }
-klklklklkl
+
 
 #left_bistro_image img{
     width:calc(50&/2);
@@ -251,14 +251,13 @@ klklklklkl
 #top_lower_left{
     display:block;
     margin:0 auto;
-    float:left;
+    width:90%;
+    
 }
-
-
 
 #water_tower{
     margin:0 auto;
-    width:calc(90%/2);
+    width:calc(100%/2);
     display:block;
     background-color:rgb(255, 195, 0);
     float:left;
