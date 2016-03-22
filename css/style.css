@@ -247,8 +247,7 @@ h2{
 
 /*CHECK HERE TO ENSURE CLASSED "FIRST_SECTION" IS WORKING FOR THE LOWER RIGHT SECTION TOO*/
 
-
-#fresno_pic{
+/*#fresno_pic{*/
     margin:0 auto;
     width:calc(90%/2);
     display:block;
@@ -257,7 +256,27 @@ h2{
     
 }
 
+/*#right_bistro_image img{*/
+    width:calc(100&/2);
+    display:inline-block;
+    float:right;
+    height:16.5em;
 
+}
+
+/*#image_fresno_text{*/
+    color:#fff;
+    margin:0 auto;
+    text-align:center;
+    font-size:1em;
+    padding:.8em;
+    width:calc(90%/2);
+    float:left;
+    
+}
+
+
+/*LOWER LEFT SECTION END FRESNO BUS SCHEDULE*/
 
 
 /*
