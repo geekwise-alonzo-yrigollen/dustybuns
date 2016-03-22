@@ -131,6 +131,7 @@ h2{
     margin:0 auto;
     width:calc(100%/2);
     display:block;
+    height:33.5em;
     background-color:#bccf3d;
     float:left;
    
@@ -140,7 +141,7 @@ h2{
     width:calc(50&/2);
     display:inline-block;
     float:left;
-    height:32em;
+    height:33.5em;
     
 }
 
