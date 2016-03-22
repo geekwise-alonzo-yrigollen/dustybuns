@@ -312,6 +312,51 @@ h2{
     float:left;
 
 }
+
+/*LEFT LOWER SIDE ***END****/
+
+
+/*COMMENCE LOWER RIGHT ELEMENT*/
+
+
+.lower_right_bistro{
+    margin:0 auto;
+    width:90%;
+    position:relative;
+}
+
+#lower_right_jeep{
+    margin:0 auto;
+    width:calc(100%/2);
+    display:block;
+    height:33.4em;
+    background-color:#bccf3d;
+    float:right;
+   
+}
+
+#lower_right_bistro_image img{
+    width:calc(50&/2);
+    display:inline-block;
+    float:left;
+    height:33.4em;
+    
+}
+
+#lower_right_text{
+    color:#fff;
+    margin:0 auto;
+    text-align:center;
+    font-size:1.3em;
+    width:calc(90%/2);
+    float:right;
+}
+*/
+
+
+
+
+
 /*
 #sanfran_bus_text{
     color:#fff;
