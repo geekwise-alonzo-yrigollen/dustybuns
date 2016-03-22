@@ -47,6 +47,11 @@ li a{
 a{
     line-height:8em;
 }
+a:hover{
+    background-color:#bccf3d;
+    border-radius:.5em;
+
+}
 #dusty_buns_header_text {
     margin:0 auto;
 }
@@ -110,18 +115,13 @@ h2{
     background-color:red;
 }
 .san_francisco{
-    width:calc(45%/2);
+    width:50%;
+    height:50%;
     display:block;
-   background-color:#bccf3d;
+    background-color:#bccf3d;
 }
 
 #left_bistro_image img{
-    
-    height:20rem;
-    display:block;
-    width:50%;
-    float:left;
-    
     
 }
 
