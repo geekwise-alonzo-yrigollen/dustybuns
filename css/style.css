@@ -247,7 +247,7 @@ h2{
 
 /*CHECK HERE TO ENSURE CLASSED "FIRST_SECTION" IS WORKING FOR THE LOWER RIGHT SECTION TOO*/
 
-/*#fresno_pic{*/
+#water_tower{
     margin:0 auto;
     width:calc(90%/2);
     display:block;
@@ -256,15 +256,15 @@ h2{
     
 }
 
-/*#right_bistro_image img{*/
+#lower_left_fresno_image{
     width:calc(100&/2);
     display:inline-block;
     float:right;
-    height:16.5em;
+    height:13em;
 
 }
 
-/*#image_fresno_text{*/
+#schedule_fresno_text{
     color:#fff;
     margin:0 auto;
     text-align:center;
