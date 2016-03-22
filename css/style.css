@@ -351,6 +351,12 @@ h2{
     width:calc(90%/2);
     float:right;
 }
+
+main{
+    margin:0 auto;
+    height:80em;
+}
+
 #below_center_images{
     display:block;
     margin:0 auto;
