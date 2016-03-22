@@ -247,6 +247,14 @@ h2{
 
 /*CHECK HERE TO ENSURE CLASSED "FIRST_SECTION" IS WORKING FOR THE LOWER RIGHT SECTION TOO*/
 
+#top_lower_left{
+    display:block;
+    margin:0 auto;
+    float:left;
+}
+
+
+
 #water_tower{
     margin:0 auto;
     width:calc(90%/2);
