@@ -322,7 +322,7 @@ h2{
 
 .lower_right_bistro{
     margin:0 auto;
-    width:90%;
+    width:100%;
     position:relative;
     float:right;
 }
@@ -398,109 +398,4 @@ main{
     text-align:center;
 }
 
-
-
-
-
-
-
-/*
-#sanfran_bus_text{
-    color:#fff;
-    margin:0 auto;
-    text-align:center;
-    font-size:1.1em;
-    padding:3rem;
-    width:calc(50%/2);
-    float:right;
-
-}
-*/
-
-
-
-/*LOWER LEFT SIDE ELEMENT*/
-
-/*
-}
-
-.top_bistro{
-    width:90%;
-    margin:0 auto;
-    height:60%;
-    display:inline-block;
-    background-color:red;
-}
-.san_francisco{
-    width:50%;
-    height:50%;
-    display:block;
-    background-color:#bccf3d;
-}
-
-#left_bistro_image img{
-    
-}
-
-#paragraph img{
-    display:block;
-    width:50%;
-    margin:0 auto;
-    height:2em;
-}
-
-#paragraph{
-  color:#fff;
-  font-size:1em;
-  height:5em;
-  text-align:center;
-  display:block;
-  width:100%;
-}
-
-#below_center_images{
-    width:100%;
-    height:4rem;
-}
-
-footer{
-   margin:0 auto;
-    display:block;
-    width:100%;
-    height:auto;
-    text-align:center;
-    background-color:aliceblue;
-    background-image:url(http://i.imgur.com/A0WEr2Y.jpg);
-    background-repeat:no-repeat;
-    background-size:cover;
-}
-*/
-
-/*COMMENCE FOOTER IMAGE*/
-
-/*
-#footer p{
-    margin:0 auto;
-    width:100%; 
-    height:2em;
-}
-*/
-
-
-/*LEFT SIDE CENTER IMAGE ***END****/
-
-/*
-#right_bistro_image img{
-    float:right;
-    margin:0 auto;
-    width:13em;
-    
-}
-#right_bistro_paragraph p{
-    margin:0 auto;
-    display:inline-block;
-    background-color:#ffc300;
-    float:left;
-}
-*/
-
+/*FOOTER ***END****/
