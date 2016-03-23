@@ -20,7 +20,8 @@ body{
 
 .nav_bar p{
     font-size:2em;
-    color:black;
+    color:#fff;
+    text-shadow:1px 1px 1px #000;
     margin:0 auto;
     float:left;
     padding-left:1em;
