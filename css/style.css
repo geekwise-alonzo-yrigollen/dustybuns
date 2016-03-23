@@ -363,7 +363,7 @@ main{
     margin:0 auto;
     margin-top:39em;
     height:11em;
-    width:100%;
+    width:85%;
     display:block;
     padding:4%;
     text-align:center;
@@ -378,12 +378,14 @@ main{
 #contact{
     margin:0 auto;
     padding:.8%;
+    text-align:center;
     width:calc(100%/3);
     float:left;
 }
 #follow{
     margin:0 auto;
     padding:.8%;
+    text-align:center;
     width:calc(100%/3);
     float:left;
 }
@@ -391,13 +393,17 @@ main{
     margin:0 auto;
     padding:.8%;
     width:calc(100%/3);
+    text-align:center;
     float:right;
 }
 .one i{
-    color:black;
+    color:grey;
 }
-
-
+.media_text{
+    color:grey;
+    font-size:.9em;
+    font-weight:thin;
+}
 
 /*footer image*/
 
@@ -406,37 +412,40 @@ footer{
     padding:0;
     background-image:url("http://i.imgur.com/PHyE2cT.jpg");
     background-repeat:no-repeat;
-    background-size:100%;
-    height:15em;
-    color:#fff;
-    background-blend-mode:multiply;
-    opacity:.9;
-    background-color:grey;
-}
-
-h4{
-    font-family:sans-serif;
-}
-#reserved{
-    padding-left:8rem;
-}
-h3{
-    font-family:'Pacifico';
-    font-size:2em;
+    background-size:cover;
+    height:14em;
     
 }
-.left{
+
+#left h3{
+    font-family:sans-serif;
+    font-size:43px;
+    color:#fff;
+    padding:3rem 0rem 0rem 3rem;
+}
+#all_rights{
+    color:rgb(255, 195, 0);
+    padding-left:3rem;
+    font-size:1.2em;
+}
+#freezers_text span{
+    font-family:'Pacifico';
+    font-size:1.7em;
+    float:right;
+    color:#fff;
+    transform:translateY(-4em);
+    
+}
+#dusty{
     position:relative;
-    /*right:20em;*/
-    /*bottom:  60%;*/
     float:left;
     display:inline-block;
     width:40%;
 } 
 
-.right{
+#freezers_text{
     position:relative;
-    font-size:28px;
+    font-size:25px;
     top:5rem;
 
 }
