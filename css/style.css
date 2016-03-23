@@ -367,9 +367,22 @@ main{
 }
 #dusty_bun_footer_text #dusty{
     margin:0 auto;
-    font-size:2em;
+    font-size:4em;
     color:#fff;
-    font-weight:800;
+    font-weight:900;
+}
+#all_rights{
+    margin:0 auto;
+    color:#fff;
+    text-align:center;
+    font-size:2rem;
+}
+#no{
+    margin:0 auto;
+    color:#fff;
+    display:block;
+    font-size:2rem;
+    text-align:center;
 }
 
 
