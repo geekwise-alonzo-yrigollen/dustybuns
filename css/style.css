@@ -258,6 +258,7 @@ h2{
 #water_tower{
     margin:0 auto;
     width:calc(100%/2);
+    height:50%;
     display:block;
     background-color:rgb(255, 195, 0);
     float:left;
@@ -288,7 +289,8 @@ h2{
 
 .lower_left_section{
     margin:0 auto;
-    width:91.3%;
+    width:50%;
+    height:100%;
     display:inline;
     position:relative;
 }
@@ -296,9 +298,8 @@ h2{
 
 #lower_left_pic{
     margin:0 auto;
-    width:calc(90%/2);
+    width:50%;
     display:block;
-    float:left;
     background-color:rgb(255, 195, 0);
     
 }
@@ -323,6 +324,7 @@ h2{
     margin:0 auto;
     width:90%;
     position:relative;
+    float:right;
 }
 
 #lower_right_jeep{
@@ -331,7 +333,7 @@ h2{
     display:block;
     height:33.4em;
     background-color:#bccf3d;
-     float:right;
+    float:right;
    
 }
 
