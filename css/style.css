@@ -386,7 +386,6 @@ main{
 }
 #follow{
     margin:0 auto;
-    padding:.8%;
     text-align:center;
     width:calc(100%/3);
     float:left;
@@ -401,10 +400,19 @@ main{
 .one i{
     color:grey;
 }
-.media_text{
-    color:grey;
+.media_text .media{
+    padding:none;
+    margin:0;
     font-size:.9em;
     font-weight:thin;
+}
+.media{
+    color:grey;
+    margin:0 auto;
+    display:inline;
+    padding:none;
+    padding:0;
+    text-decoration:none;
 }
 
 /*footer image*/
