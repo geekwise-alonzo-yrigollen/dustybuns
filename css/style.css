@@ -364,10 +364,40 @@ main{
     margin-top:39em;
     height:11em;
     width:100%;
+    display:block;
     padding:4%;
     text-align:center;
-    background-color:orange;
+    background-color:#fff;
 }
+
+.one{
+    color:rgb(255, 195, 0);
+    font-size:1.4em;
+    display:inline;
+}
+#contact{
+    margin:0 auto;
+    padding:.8%;
+    width:calc(100%/3);
+    float:left;
+}
+#follow{
+    margin:0 auto;
+    padding:.8%;
+    width:calc(100%/3);
+    float:left;
+}
+#company{
+    margin:0 auto;
+    padding:.8%;
+    width:calc(100%/3);
+    float:right;
+}
+.one i{
+    color:black;
+}
+
+
 
 /*footer image*/
 
