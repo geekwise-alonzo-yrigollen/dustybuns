@@ -6,22 +6,27 @@ body{
 
 /*HEADER IMAGE BEGINS HERE*/
 
-header{
+#header{
     margin:0 auto;
     display:block;
     width:100%;
     height:auto;
     text-align:center;
-    background-color:aliceblue;
-/*
-    background-image:url(http://i.imgur.com/othQpDL.jpg);
-    background-repeat:no-repeat;
-    background-size:cover;
-*/
+    background-color:#fff;
     
 }
 
 /*COMMENCE NAV STYLE*/
+
+.nav_bar p{
+    font-size:2em;
+    color:black;
+    margin:0 auto;
+    float:left;
+    padding-left:1em;
+    transform:translateY(1.2em);
+}
+
 
 .nav_bar{
     margin:0 auto;
@@ -60,27 +65,14 @@ a:hover{
     border-radius:.5em;
     transition:background .7s;
     
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+main{
+    margin:0 auto;
+    height:50%;
+    background-image:url(http://i.imgur.com/sJpRCEo.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
 
 
 
