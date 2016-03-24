@@ -200,6 +200,7 @@ h2{
     text-align:center;
     font-size:1em;
     padding:.8em;
+    transform:translateY(-16.70em);
     width:calc(90%/2);
     float:left;
     
@@ -322,6 +323,7 @@ h2{
 /*COMMENCE LOWER RIGHT ELEMENT*/
 
 
+
 .lower_right_bistro{
     margin:0 auto;
     width:100%;
@@ -357,6 +359,7 @@ h2{
 }
 
 main{
+    width:100%;
     margin:0 auto;
     height:80em;
 }
@@ -390,6 +393,7 @@ main{
     width:calc(100%/3);
     float:left;
 }
+
 
 /*CHECK YOUR CLASS AND ID*/
 
