@@ -369,18 +369,19 @@ main{
     width:100%;
     position:absolute;
     margin:0 auto;
-    height:40em;
+    height:70em;
 }
 
 .social_media{
     margin:0 auto;
     margin-top:39em;
-    height:11em;
+    position:relative;
     width:85%;
     display:block;
     padding:4%;
     text-align:center;
     background-color:#fff;
+    transform:translateY(33em);
 }
 
 .one{
@@ -434,12 +435,14 @@ main{
 /*footer image*/
 
 footer{
-    margin:0;
+    margin:0 auto;
     padding:0;
     background-image:url("http://i.imgur.com/PHyE2cT.jpg");
     background-repeat:no-repeat;
     background-size:cover;
-    height:14em;
+    position:relative;
+    top:45em;
+    height:15em;
     
 }
 
