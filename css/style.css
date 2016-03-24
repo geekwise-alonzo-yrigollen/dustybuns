@@ -299,18 +299,22 @@ h2{
 
 .lower_left_section{
     margin:0 auto;
-    width:50%;
-    height:100%;
+    width:auto;
+    height:auto;
+    float:left;
     display:inline;
     position:relative;
+    transform:translateY(-4em);
 }
 
 
 #lower_left_pic{
     margin:0 auto;
-    width:50%;
+    width:86.1%;
     display:block;
+    float:left;
     background-color:rgb(255, 195, 0);
+    transform:translateX(4em);
     
 }
 
@@ -318,7 +322,7 @@ h2{
     margin:0 auto;
     width:calc(100%/2);
     display:block;
-    height:16.5em;
+    height:16.9em;
     background-color:rgb(255, 195, 0);
     float:left;
 
