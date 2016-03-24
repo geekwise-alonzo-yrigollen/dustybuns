@@ -219,20 +219,18 @@ h2{
 
 #sanfran_bus_pic{
     margin:0 auto;
-    width:calc(100%/2);
+    width:100%;
     height:16.9em;
     display:block;
-    background-color:rgb(255, 195, 0);
-    float:left;
-    
-    
+   
+       
 }
 #sanfran_bus_image img{
     margin:0 auto;
-    width:48.8%;
+    width:calc(48.8%/2);
     display:inline-block;
     float:left;
-    height:17.1em;
+    height:16.9em;
 
 
 }
@@ -242,8 +240,10 @@ h2{
     text-align:center;
     font-size:1.1em;
     padding:3rem;
-    width:calc(50%/2);
+    height:9.9em;
+    width:calc(34.5%/2);
     float:right;
+    background-color:rgb(255, 195, 0);
 
 }
 
