@@ -154,6 +154,7 @@ h2{
     margin:0 auto;
     text-align:center;
     font-size:1.3em;
+    text-transform:capitalize;
     width:calc(90%/2);
     float:left;
 }
@@ -162,7 +163,7 @@ h2{
     margin:0 auto;
     color:#fff;
     text-align:center;
-    padding:.9em;
+    padding:.4em;
     width:100%;
     
 }
@@ -202,9 +203,9 @@ h2{
     color:#fff;
     margin:0 auto;
     text-align:center;
-    font-size:1em;
+    font-size:1.3em;
     padding:.8em;
-    transform:translateY(-16.70em);
+    transform:translateY(-13.5em);
     width:calc(90%/2);
     float:left;
     
@@ -320,7 +321,7 @@ h2{
 
 #lower_left_image img{
     margin:0 auto;
-    width:calc(100%/2);
+    width:calc(104%/2);
     display:block;
     height:16.9em;
     background-color:rgb(255, 195, 0);
