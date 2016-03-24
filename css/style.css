@@ -125,6 +125,7 @@ h2{
     margin:0 auto;
     width:90%;
     position:relative;
+    top:-60px;
 }
 
 /*COMMENCE BISTRO IMAGE AND TEXT ARTICLES*/
@@ -174,7 +175,7 @@ h2{
     margin:0 auto;
     width:90%;
     position:relative;
-    
+   
 }
 
 #fresno_pic{
@@ -182,8 +183,10 @@ h2{
     width:calc(90%/2);
     display:block;
     height:16.5em;
+    position:relative;
     background-color:rgb(255, 195, 0);
     float:left;
+    top:-60px;
     
 }
 
@@ -215,6 +218,7 @@ h2{
     margin:0 auto;
     width:90%;
     position:relative;
+    top:-60px;
 }
 
 #sanfran_bus_pic{
@@ -362,8 +366,9 @@ h2{
 
 main{
     width:100%;
+    position:absolute;
     margin:0 auto;
-    height:80em;
+    height:40em;
 }
 
 .social_media{
