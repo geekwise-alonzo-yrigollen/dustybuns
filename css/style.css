@@ -271,7 +271,7 @@ h2{
 }
 
 #lower_left_fresno_image img{
-    width:calc(100%/2);
+    width:calc(96%/2);
     display:inline-block;
     float:right;
     height:16.5em;
