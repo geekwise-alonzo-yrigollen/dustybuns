@@ -337,25 +337,26 @@ h2{
 
 .lower_right_bistro{
     margin:0 auto;
-    width:100%;
+    width:50%;
     position:relative;
     float:right;
+    transform:translateY(-37.4em);
 }
 
 #lower_right_jeep{
     margin:0 auto;
-    width:calc(100%/2);
+    width:90%;
     display:block;
     height:33.4em;
     background-color:#bccf3d;
-    float:right;
+    float:left;
    
 }
 
 #lower_right_bistro_image img{
-    width:calc(50&/2);
+    width:51.2%;
     display:inline-block;
-    float:left;
+    float:right;
     height:33.4em;
     
 }
