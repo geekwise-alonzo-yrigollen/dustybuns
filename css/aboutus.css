@@ -87,11 +87,32 @@ main p{
     transform:translateY(3em)
 
 }
+article{
+    width:75%;
+    margin:0 auto;
+    height:auto;
+    display:block;
+}
 
 #article_pic{
-    width:40%;
-    padding:3%;
+    width:60%;
+    padding:2%;
+    float:left;
+    transform:translateY(-2em);
 }
+
+#image_text{
+    
+    font-size:1.5em;
+}
+
+#our_adventure{
+    width:100%;
+    text-align:center;
+    
+}
+
+
 
 
 /*footer image*/
