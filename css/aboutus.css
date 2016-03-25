@@ -122,21 +122,25 @@ article{
 }
 
 .slider_images img{
-    display:flex;
-    justify-content:row;
-    width:360px;
+    display:inline;
+    width:calc(99%/4);
     height:240px;
+    
     
 }
 #flexbox{
     display:flex;
-    color:;
+    justify-content:space-around;
+    height:11rem;
+    font-size:1.2em;
     background-color:#fff;
     text-align:center; 
-    justify-content:space-between;
+
 }
 
-
+.the_daily_meal{
+    color:#ffc300;
+}
 
 
 
