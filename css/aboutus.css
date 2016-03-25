@@ -79,6 +79,8 @@ main p{
     text-align:center;
     font-size:4rem;
     color:#fff;
+    text-transform:capitalize;
+    transform:translateY(3em)
 
 }
 
