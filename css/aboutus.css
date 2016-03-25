@@ -122,17 +122,27 @@ article{
 }
 
 .slider_images img{
-    display:inline;
-    padding:3%;
-    width:17.7%;
-    height:100px;
+    display:flex;
+    justify-content:row;
+    width:360px;
+    height:240px;
     
 }
 #flexbox{
     display:flex;
+    color:;
+    background-color:#fff;
     text-align:center; 
     justify-content:space-between;
 }
+
+
+
+
+
+
+
+
 
 
 /*footer image*/
