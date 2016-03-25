@@ -124,11 +124,15 @@ article{
 .slider_images img{
     display:inline;
     padding:3%;
-    width:18.7%;
+    width:17.7%;
     height:100px;
     
 }
-
+#flexbox{
+    display:flex;
+    text-align:center; 
+    justify-content:space-between;
+}
 
 
 /*footer image*/
