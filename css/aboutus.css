@@ -95,6 +95,7 @@ article{
 }
 
 #article_pic{
+    
     width:60%;
     padding:2%;
     float:left;
@@ -107,6 +108,7 @@ article{
 }
 
 #our_adventure{
+    
     width:100%;
     text-align:center;
     
@@ -119,10 +121,11 @@ article{
     background-color:rgb(188, 207, 61);
 }
 
-.sider_images{
+.slider_images img{
     display:inline;
-    width:calc(100%/4);
     padding:3%;
+    width:18.7%;
+    height:100px;
     
 }
 
