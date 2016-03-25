@@ -471,7 +471,8 @@ footer{
     background-repeat:no-repeat;
     background-size:cover;
     position:relative;
-    height:15em;
+    height:16rem;
+    transform:translateY(38rem);
     
 }
 
