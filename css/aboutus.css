@@ -115,34 +115,35 @@ article{
 }
 
 #slider{
+    margin:0 auto;
+    text-align:center;
     width:100%;
-    height:30em;
-    display:absolute;
     background-color:rgb(188, 207, 61);
 }
-
-.slider_images img{
-    display:inline;
-    width:calc(99%/4);
-    height:240px;
-    
-    
+#title{
+    margin:0 auto;
+    width:100%;
+    color:#fff;
+    font-size:4rem;
+    height:5rem;
+    text-align:center;
 }
-#flexbox{
+#slider img{
+    width:calc(95%/4);
+}
+#text_slider{
     display:flex;
+    background-color:white;
+    width:calc(95%4);
+    font-size:1em;
     justify-content:space-around;
-    height:11rem;
-    font-size:1.2em;
-    background-color:#fff;
-    text-align:center; 
-
+    width:98%;
+    height:6em;
 }
 
 .the_daily_meal{
     color:#ffc300;
 }
-
-
 
 /*footer image*/
 
