@@ -129,16 +129,19 @@ article{
     text-align:center;
 }
 #slider img{
+    margin:0 auto;
     width:calc(95%/4);
 }
 #text_slider{
     display:flex;
+    margin:0 auto;
     background-color:white;
     width:calc(95%4);
     font-size:1em;
     justify-content:space-around;
-    width:98%;
-    height:6em;
+    width:96%;
+    height:7em;
+    
 }
 
 .the_daily_meal{
