@@ -9,14 +9,13 @@ body{
 header{
     margin:0 auto;
     display:block;
-    width:100%;
+    width:30%;
+    color:#ffc300;
+    font-size:4em;
+    text-transform:capitalize;
     height:auto;
     text-align:center;
-    background-color:aliceblue;
-    background-image:url(http://i.imgur.com/othQpDL.jpg);
-    background-repeat:no-repeat;
-    background-size:cover;
-    
+  
 }
 
 /*COMMENCE NAV STYLE*/
@@ -81,29 +80,84 @@ a:hover{
 /*NAV ***END****/
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+main span img{
+    display:block;
+    margin:0 auto;
+    width:80%;
+    height:450px;
+}
 
 
 
 /*COMMENCE FOOTER*/
+
+.social_media{
+    margin:0 auto;
+    position:relative;
+    width:calc(70%);
+    display:block;
+    padding:4%;
+    text-align:center;
+    background-color:#fff;
+    transform:translateY(3em);
+}
+
+.one{
+    color:rgb(255, 195, 0);
+    font-size:1.4em;
+    display:inline;
+}
+#contact{
+    margin:0 auto;
+    padding:.8%;
+    text-align:center;
+    width:calc(100%/3);
+    float:left;
+}
+
+#follow{
+    margin:0 auto;
+    text-align:center;
+    width:calc(100%/3);
+    width:18%;
+    display:block;
+    float:left;
+   
+}
+
+
+
+
+/*CHECK YOUR CLASS AND ID*/
+
+#company{
+    margin:0 auto;
+    padding:0;
+    width:calc(100%/3);
+    text-align:center;
+    float:right;
+}
+.one i{
+    color:grey;
+}
+.media_text{
+    padding:none;
+    margin:0;
+    color:grey;
+    font-size:.9em;
+    font-weight:thin;
+}
+.media{
+    color:grey;
+    margin:0 auto;
+    display:inline;
+    padding:none;
+    padding:0;
+    text-decoration:none;
+}
+
+/*footer image*/
+
 footer{
     margin:0 auto;
     padding:0;
@@ -112,7 +166,7 @@ footer{
     background-size:cover;
     position:relative;
     height:16rem;
-    transform:translateY(38rem);
+    transform:translateY(8rem);
     
 }
 
@@ -148,8 +202,3 @@ footer{
     top:5rem;
 
 }
-
-
-
-
-
