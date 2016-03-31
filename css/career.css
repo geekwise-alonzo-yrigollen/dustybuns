@@ -1,6 +1,13 @@
 
 /*COMMENCE NAV STYLE*/
 
+#header{
+    width:100%;
+    height:1em;
+}
+
+
+
 .logo{
     
     font-size:2em;
@@ -53,6 +60,14 @@ a:hover{
 /*    background-color:#bccf3d;*/
     border-radius:.5em;
     transition:background .7s;
+    
+}
+#main_text{
+    color:#000;
+    width:20%;
+    margin:0 auto;
+    text-align:center;
+    font-size:2em;
     
 }
 
