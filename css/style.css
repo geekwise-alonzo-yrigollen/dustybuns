@@ -412,7 +412,8 @@ main{
 .one{
     color:rgb(255, 195, 0);
     font-size:1.4em;
-    display:inline;
+    text-align:center;
+    display:block;
 }
 #contact{
     margin:0 auto;
@@ -447,13 +448,15 @@ main{
 .one i{
     color:grey;
 }
+
 .media_text{
-    padding:none;
-    margin:0;
+    
+    margin:0 auto;
     color:grey;
     font-size:.9em;
     font-weight:thin;
 }
+
 .media{
     color:grey;
     margin:0 auto;
