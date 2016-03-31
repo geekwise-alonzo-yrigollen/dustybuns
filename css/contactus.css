@@ -84,7 +84,7 @@ main span img{
     display:block;
     margin:0 auto;
     width:80%;
-    height:450px;
+    height:340px;
 }
 
 
@@ -162,6 +162,7 @@ footer{
     margin:0 auto;
     padding:0;
     background-image:url("http://i.imgur.com/PHyE2cT.jpg");
+    opacity:.9;
     background-repeat:no-repeat;
     background-size:cover;
     position:relative;

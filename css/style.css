@@ -327,7 +327,6 @@ h2{
     transform:translateY(-4em);
 }
 
-
 #lower_left_pic{
     margin:0 auto;
     width:100%;
@@ -388,6 +387,12 @@ h2{
     font-size:1.3em;
     width:calc(97%/2);
     float:right;
+}
+
+.numbers{
+
+    color:#525252;
+    
 }
 
 main{
