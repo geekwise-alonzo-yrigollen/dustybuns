@@ -109,8 +109,12 @@ article{
 
 #our_adventure{
     
-    width:100%;
-    text-align:center;
+    margin:0 auto;
+    text-align:right;
+    width:73%;
+    padding:10px;
+    transform:translateY(25%);
+   
     
 }
 #slider section{
