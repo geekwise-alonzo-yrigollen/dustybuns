@@ -2,30 +2,37 @@
 /*COMMENCE NAV STYLE*/
 
 .logo{
+    
     font-size:2em;
     color:#000;
+    display:block;
     font-weight:600;
     margin:0 auto;
-    width:30%;
-    
-    
+    float:left;
+    width:15%;
+        
 }
 .nav_bar{
+    
     margin:0 auto;
     display:inline;
 }
 
 .initial_ul{
+    
     margin:0 auto;
     display:inline;
 }
+
 li{
     margin:0 auto;
     display:inline;
     width:100%;
     
 }
+
 li a{
+    
     margin:0 auto;
     color:#000;
     font-size:1em;
@@ -35,51 +42,27 @@ li a{
 /*    text-shadow:1px 1px 1px #000;*/
     text-decoration:none;
 }
+
 a{
     
     line-height:8em;
 }
+
 a:hover{
     color:#bccf3d;
 /*    background-color:#bccf3d;*/
     border-radius:.5em;
     transition:background .7s;
     
-
 }
 
 /*NAV ***END*** */
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*COMMENCE FOOTER HERE*/
+
 footer{
+    
     margin:0 auto;
     padding:0;
     background-image:url("http://i.imgur.com/PHyE2cT.jpg");
@@ -96,19 +79,21 @@ footer{
     color:#fff;
     padding:3rem 0rem 0rem 3rem;
 }
+
 #all_rights{
     color:rgb(255, 195, 0);
     padding-left:3rem;
     font-size:1.2em;
 }
+
 #freezers_text span{
     font-family:'Pacifico';
     font-size:1.7em;
     float:right;
-    color:#fff;
-    transform:translateY(-4em);
+    color:#fff;    transform:translateY(-4em);
     
 }
+
 #dusty{
     position:relative;
     float:left;
@@ -122,8 +107,6 @@ footer{
     top:5rem;
 
 }
-
-
     FOOTER ***END***
 
 
