@@ -1,205 +1,93 @@
-body{
-    background-color:#fff;
-    margin:0 auto;
-    
-}
-
-/*HEADER IMAGE BEGINS HERE*/
-
-header{
-    margin:0 auto;
-    display:block;
-    width:30%;
-    color:#ffc300;
-    font-size:4em;
-    text-transform:capitalize;
-    height:auto;
-    text-align:center;
+<!DOCTYPE html>
+<html>
   
-}
-
-/*COMMENCE NAV STYLE*/
-
-
-#logo{
-    color:#000;
-    width:6em;
-    height:2em;
-    font-size:2em;
-    padding:2%;
-    transform:translateY(.55em);
-    text-transform:capitalize;
-}
-
-
-
-.nav_bar{
-    margin:0 auto;
-    width:100%;
-    display:flex;
-    justify-content: space-around;
-    transform:translateX(4em);
-    
-    
-}
-
-.initial_ul{
-    margin:0 auto;
-    width:100%;
-    display:inline;
-}
-li{
-    margin:0 auto;
-    display:inline;
-    width:100%;
-    
-}
-li a{
-    margin:0 auto;
-    color:#000;
-    font-size:1em;
-/*    font-weight:600;*/
-    text-transform:capitalize;
-    padding:2.77%;
-/*    text-shadow:1px 1px 1px #000;*/
-    text-decoration:none;
-}
-a{
-    
-    line-height:8em;
-}
-a:hover{
-    color:#bccf3d;
-/*    background-color:#bccf3d;*/
-    border-radius:.5em;
-    transition: color .1s;
-    
-
-}
-
-/*NAV ***END****/
-
-
-main span img{
-    display:block;
-    margin:0 auto;
-    width:80%;
-    height:340px;
-}
-
-
-
-/*COMMENCE FOOTER*/
-
-.social_media{
-    margin:0 auto;
-    position:relative;
-    width:calc(70%);
-    display:block;
-    padding:4%;
-    text-align:center;
-    background-color:#fff;
-    transform:translateY(3em);
-}
-
-.one{
-    color:rgb(255, 195, 0);
-    font-size:1.4em;
-    display:inline;
-}
-#contact{
-    margin:0 auto;
-    padding:.8%;
-    text-align:center;
-    width:calc(100%/3);
-    float:left;
-}
-
-#follow{
-    margin:0 auto;
-    text-align:center;
-    width:calc(100%/3);
-    width:18%;
-    display:block;
-    float:left;
+<!--  HEAD TAG BEGINS HERE-->
    
-}
+    <head>
+           <link rel="icon" href="http://i.imgur.com/xZmhU4J.png">  
 
-
-
-
-/*CHECK YOUR CLASS AND ID*/
-
-#company{
-    margin:0 auto;
-    padding:0;
-    width:calc(100%/3);
-    text-align:center;
-    float:right;
-}
-.one i{
-    color:grey;
-}
-.media_text{
-    padding:none;
-    margin:0;
-    color:grey;
-    font-size:.9em;
-    font-weight:thin;
-}
-.media{
-    color:grey;
-    margin:0 auto;
-    display:inline;
-    padding:none;
-    padding:0;
-    text-decoration:none;
-}
-
-/*footer image*/
-
-footer{
-    margin:0 auto;
-    padding:0;
-    background-image:url("http://i.imgur.com/PHyE2cT.jpg");
-    opacity:.9;
-    background-repeat:no-repeat;
-    background-size:cover;
-    position:relative;
-    height:16rem;
-    transform:translateY(8rem);
     
-}
-
-#left h3{
-    font-family:sans-serif;
-    font-size:38px;
-    color:#fff;
-    padding:3rem 0rem 0rem 3rem;
-}
-#all_rights{
-    color:rgb(255, 195, 0);
-    padding-left:3rem;
-    font-size:1.2em;
-}
-#freezers_text span{
-    font-family:'Pacifico';
-    font-size:1.7em;
-    float:right;
-    color:#fff;
-    transform:translateY(-4em);
+    <title> Dusty Buns </title>
     
-}
-#dusty{
-    position:relative;
-    float:left;
-    display:inline-block;
-    width:40%;
-} 
+    <meta charset='utf-8'>
+    
+    <meta content="text/html/">
+    
+    <meta name='viewport' content="width=device-width,initial scale=1">
+    
+    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    
+    <link rel="stylesheet" href="css/contactus.css"> 
+    
+   </head>
+   
+<body>
+    <nav class="nav_bar">
+        <span id="logo">dusty buns</span>
+      <ul class="initial_ul">
+          <li>
+              <a href="index.html">Home</a>
+          </li>
+          <li>
+              <a href="">Menu/Location<i class="fa fa-caret-down"></i></a>
+              
+          </li>
+          <li>
+              <a href="aboutus.html">About Us</a>
+          </li>
+          <li>
+              <a href="">Catering<i class="fa fa-caret-down"></i></a>
+              
+          </li>
+          <li>
+              <a href="contactus.html">Contact Us</a>
+          </li>
+          <li>
+              <a href="career.html">Careers</a>
+          </li>
+      </ul>
+     </nav>
+<header>
+    <span>contact us</span>
+</header>
+   
+    <main>
+        <span><img src="http://i.imgur.com/tPFk0Jq.jpg"></span>
+    </main>
+    
+    
+<section class="social_media">
+             <span class="one">
+                 <p id="contact">CONTACT<br><br><i class="fa fa-envelope"></i><span class="media_text">chefs@dustybuns.com</span>
+                </p> 
+             </span>
+             <span class="one">
+                 <p id="follow">FOLLOW US<br>
+                     <i class="fa fa-facebook">Facebook</i>
+                     <i class="fa fa-twitter">Twitter</i>
+                     <i class=" fa fa-instagram">Instagram</i>
+                 </p>
+             </span>
+             <span class="one">
+             <p class="company">COMPANY
+                 <br><br><i class="fa fa-users"></i><span class="media_text">Careers</span>
+             </p>
+             </span>
+         </section> 
+    <footer>
+	 <span id="left">
+	 	<h3>Dusty Buns</h3>
+	    <h4 id="all_rights">2015. All rights reserved.</h4>
+	 </span>
+	 <span id="freezers_text">
+	 	<span>“No Freezers, No Fryers, Everything Made From Scratch.”</span>
+	 </span>
+    </footer>    
+    
+    
+</body>  
+ 
 
-#freezers_text{
-    position:relative;
-    font-size:25px;
-    top:5rem;
-
-}
+</html>
