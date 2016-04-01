@@ -139,8 +139,9 @@ article{
 }
 #slider img{
     margin:0 auto;
-    height:240px;
-    width:calc(95%/4);
+    height:290px;
+    padding:2em;
+    width:calc(79.4%/4);
 }
 #text_slider{
     display:flex;
@@ -150,7 +151,7 @@ article{
     font-size:1em;
     justify-content:space-around;
     width:96%;
-    height:10em;
+    height:14em;
     
 }
 
