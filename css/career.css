@@ -6,8 +6,6 @@
     height:1em;
 }
 
-
-
 .logo{
     
     font-size:2em;
@@ -20,12 +18,12 @@
     transform:translateY(-1em);
         
 }
+
 .logo:hover{
     
     color:#bccf3d;
     transition:color .5s;
-    
-    
+      
 }
 .nav_bar{
     
@@ -40,6 +38,7 @@
 }
 
 li{
+    
     margin:0 auto;
     display:inline;
     width:100%;
@@ -66,9 +65,10 @@ a{
 a:hover{
     color:#bccf3d;
 /*    background-color:#bccf3d;*/
-    border-radius:.5em; transition: color .7s;
+    border-radius:.5em; transition:color .7s;
     
 }
+
 #main_text{
     color:#000;
     width:20%;
