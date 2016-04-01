@@ -12,12 +12,20 @@
     
     font-size:2em;
     color:#000;
-    display:block;
     font-weight:600;
     margin:0 auto;
     float:left;
-    width:15%;
+    width:13%;
+    height:4em;
+    transform:translateY(-1em);
         
+}
+.logo:hover{
+    
+    color:#bccf3d;
+    transition:color .5s;
+    
+    
 }
 .nav_bar{
     
@@ -58,8 +66,7 @@ a{
 a:hover{
     color:#bccf3d;
 /*    background-color:#bccf3d;*/
-    border-radius:.5em;
-    transition:background .7s;
+    border-radius:.5em; transition: color .7s;
     
 }
 #main_text{
