@@ -147,16 +147,19 @@ article{
     display:flex;
     margin:0 auto;
     background-color:white;
-    width:calc(95%4);
     font-size:1em;
-    justify-content:space-around;
+    justify-content:space-between;
     width:96%;
-    height:14em;
+    height:10em;
+    transform:translateY(-2.22em);
     
 }
 
+
 .the_daily_meal{
     color:#ffc300;
+    font-size:2em;
+    
 }
 
 /*footer image*/
