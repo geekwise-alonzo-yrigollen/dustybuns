@@ -18,20 +18,32 @@ body{
 
 /*COMMENCE NAV STYLE*/
 
+a span{
+    margin:0 auto;
+    display:block;
+    float:left;
+    font-size:1.9em;
+    text-transform:capitalize;
+    text-decoration:none;
+}
 .nav_bar{
     
     width:100%;
-    font-size:1em;
+    height: 100px;
+    transform:translateY(-1em);
+    font-size:1.2em;
 
 }
+/*
 .nav_bar p{
     text-transform:capitalize;
     font-size:50px;
     margin:0 auto;
     width:18%;
     float:left;
-    padding:29px;
+    padding:9px;
 }
+*/
 
 
 .initial_ul{
@@ -62,10 +74,10 @@ a{
 }
 
 a:hover{
-    color:aliceblue;
-    background-color:#bccf3d;
+    color:#bccf3d;
+/*    background-color:#bccf3d;*/
     border-radius:.5em;
-    transition:background .7s;
+    transition:color .3s;
     
 }
 
