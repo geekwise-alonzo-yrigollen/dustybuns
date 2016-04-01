@@ -69,13 +69,18 @@ a:hover{
     
 }
 
-#main_text{
-    color:#000;
-    width:20%;
+#main_text p{
+    color:#fff;
+    width:40%;
     margin:0 auto;
     text-align:center;
-    font-size:2em;
+    font-size:1em;
+ transform:translateY(-46em);
     
+}
+#careers{
+    font-size:5em;
+    color:#bccf3d;
 }
 
 /*NAV ***END*** */
