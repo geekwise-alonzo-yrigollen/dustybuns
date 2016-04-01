@@ -110,12 +110,12 @@ article{
 #our_adventure{
     
     margin:0 auto;
+    color:#bccf3d;
     text-align:right;
     width:73%;
     padding:10px;
     transform:translateY(25%);
    
-    
 }
 #slider section{
 
@@ -133,9 +133,9 @@ article{
     margin:0 auto;
     width:100%;
     color:#fff;
-    font-size:4rem;
-    height:5rem;
+    font-size:5rem;
     text-align:center;
+    text-transform:capitalize;
 }
 #slider img{
     margin:0 auto;
