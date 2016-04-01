@@ -1,6 +1,8 @@
 body{
     background-color:#fff;
     margin:0 auto;
+    height:auto;
+    
     
 }
 
@@ -59,10 +61,21 @@ a:hover{
     border-radius:.5em;
     transition:background .7s;
     
-
 }
 
 /*NAV STYLE ***END****/
+
+header span{
+    color:#ffc300;
+    display:block;
+    width:auto;
+    height:auto;
+    text-transform:capitalize;
+    margin-bottom:.4em;
+    font-weight:700;
+    font-size:4em;
+    
+}
 
 #dusty_buns_header_text {
     margin:0 auto;
@@ -257,11 +270,6 @@ h2{
 
 }
 
-
-
-
-
-
 /* SAN FRAN BUS SECTION. LOWER UPPER RIGHT ***END***/
 
 /*COMMENCE LOWER RIGHT SECTION*/
@@ -394,16 +402,24 @@ main{
     height:70em;
 }
 
+/*COMMENCE CENTER IMAGE*/
+main span img{
+    margin:0 auto;
+    display:block;
+    width:90%;
+    height:30%;
+}
+
+
 .social_media{
     margin:0 auto;
-    margin-top:38em;
     position:relative;
-    width:calc(70%);
-    display:block;
-    padding:4%;
+    width:100%;
+    display:flex;
+    justify-content:space-around;
     text-align:center;
     background-color:#fff;
-    transform:translateY(43em);
+    transform:translateY(25em);
 }
 
 .one{
@@ -471,9 +487,9 @@ footer{
     background-image:url("http://i.imgur.com/PHyE2cT.jpg");
     background-repeat:no-repeat;
     background-size:cover;
-    position:relative;
+   opacity:.9; position:relative;
     height:16rem;
-    transform:translateY(38rem);
+    transform:translateY(28rem);
     
 }
 
