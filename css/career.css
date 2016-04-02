@@ -75,9 +75,16 @@ a:hover{
     margin:0 auto;
     text-align:center;
     font-size:1em;
- transform:translateY(-46em);
+ transform:translateY(-26.5em);
     
 }
+
+main span img{
+    margin:0 auto;
+    width:100%;
+    height:80%;
+}
+
 #careers{
     font-size:5em;
     color:#bccf3d;
