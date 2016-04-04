@@ -1,7 +1,7 @@
 body{
     background-color:#fff;
     margin:0 auto;
-    font-family:'pacifico';
+    
     
 }
 
@@ -15,10 +15,13 @@ header{
     text-align:center;
     background-color:aliceblue;
     background-image:url(http://i.imgur.com/othQpDL.jpg);
-    font-family:'pacifico';
     background-repeat:no-repeat;
     background-size:cover;
     
+}
+
+#pac{
+    font-family:'pacifico';
 }
 
 /*COMMENCE NAV STYLE*/
