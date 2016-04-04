@@ -1,61 +1,87 @@
-body{
-    background-color:#fff;
-    margin:0 auto;
-    height:auto;
-    
-    
-}
-
-/*HEADER IMAGE BEGINS HERE*/
-
-header{
-    margin:0 auto;
-    display:block;
-    width:100%;
-    height:auto;
-    text-align:center;
+<!DOCTYPE html>
+<html>
+  
+<!--  HEAD TAG BEGINS HERE-->
    
-}
+    <head>
+           <link rel="icon" href="http://i.imgur.com/xZmhU4J.png">  
 
-/*COMMENCE NAV STYLE*/
-#logo{
-    color:black;
-    font-size:2em;
-    font-weight:700;
-    padding:2%;
-    float:left;
-    text-transform:capitalize;
-}
-.nav_bar{
-    margin:0 auto;
-    width:100%;
-    display:inline;
-}
-
-.initial_ul{
-    margin:0 auto;
-    width:100%;
-    display:inline;
-}
-li{
-    margin:0 auto;
-    display:inline;
-    width:100%;
     
-}
-li a{
-    margin:0 auto;
-    color:#000;
-    font-size:1em;
-    font-weight:600;
-    text-transform:capitalize;
-    padding:2.77%;
-    text-decoration:none;
-}
-a{
-    color:#000;
-    text-decoration:none;
-    line-height:8em;
+    <title> 
+        Dusty Buns
+    </title>
+    
+    <meta charset='utf-8'>
+    
+    <meta content="text/html/">
+    
+    <meta name='viewport' content="width=device-width,initial scale=1">
+    
+    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    
+    <link rel="stylesheet" href="css/sfbistro.css"> 
+    
+   </head>
+   
+<!--   COMMENCE BODY-->
+   <nav class="nav_bar">
+        <a href='index.html'><span id="logo">dusty buns</span></a>
+      <ul class="initial_ul">
+          <li>
+              <a href="index.html">Home</a>
+          </li>
+          <li>
+              <a href="">Menu/Location<i class="fa fa-caret-down"></i></a>
+              
+          </li>
+          <li>
+              <a href="aboutus.html">About Us</a>
+          </li>
+          <li>
+              <a href="">Catering<i class="fa fa-caret-down"></i></a>
+              
+          </li>
+          <li>
+              <a href="contactus.html">Contact Us</a>
+          </li>
+          <li>
+              <a href="career.html">Careers</a>
+          </li>
+      </ul>
+     </nav>
+<header>
+    <span><img src='http://i.imgur.com/rSd4vlV.jpg'></span>    
+    
+    </header>
+    <main>
+    <section>
+        
+    </section>
+        
+            
+                
+                    
+                            
+    </main>
+ <footer>
+        
+ </footer>
+</html>   <main>
+    <section>
+        
+    </section>
+        
+            
+                
+                    
+                            
+    </main>
+ <footer>
+        
+ </footer>
+</html>   line-height:8em;
 }
 a:hover{
     color:#bccf3d;
