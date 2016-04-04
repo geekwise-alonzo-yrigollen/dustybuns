@@ -14,16 +14,16 @@ header{
     width:100%;
     height:auto;
     text-align:center;
-    
-  
-    
+   
 }
 
 /*COMMENCE NAV STYLE*/
 #logo{
+    color:black;
     font-size:2em;
     font-weight:700;
     padding:2%;
+    float:left;
     text-transform:capitalize;
 }
 .nav_bar{
