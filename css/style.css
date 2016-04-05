@@ -104,6 +104,14 @@ h2{
     text-align:center;
     text-transform:capitalize;
 }
+
+#welcome span h2{
+    font-family:'pacifico';
+    font-weight:500;
+    font-size:72px;
+    
+}
+
 #text{
     margin:0 auto;
     font-size:.7em;
