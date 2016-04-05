@@ -68,8 +68,9 @@ a:hover{
 
 /*NAV STYLE ***END****/
 
-#dusty_buns_header_text {
+#dusty_buns_header_text h1{
     margin:0 auto;
+    font-family:'pacifico'
 }
 
 h1{
