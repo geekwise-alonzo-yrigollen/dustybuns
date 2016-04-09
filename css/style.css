@@ -246,6 +246,7 @@ h2{
    
        
 }
+
 #sanfran_bus_image img{
     margin:0 auto;
     width:calc(50%/2);
@@ -255,6 +256,13 @@ h2{
 
 
 }
+
+#sanfran_bus_text p{
+    transform:translateY(-6em);
+    
+}
+
+
 #sanfran_bus_text{
     color:#fff;
     margin:0 auto;
